@@ -82,6 +82,18 @@ Description:  This project provides automatic re-provisioning of iOS and tvOS ap
 Author: AppleTechStop
 Name: ReProvision
 
-
+Package: com.fantasticstore.afiles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.afiles_1.0_iphoneos-arm.deb
+Size: 3057326 
+MD5sum: afc75439640ad77f591325ffb00d8f05
+SHA1: b806243110615d4795699cd77fa14e2eea3ef3b1
+SHA256: 7089008e4ff69d37572ae5cc6dfb4561b2890c5f122693e0a95cec9bef45f2b7
+Section: Applications 
+Description: A social media app or utility app that has in-app purchases too!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Afiles
 
 
